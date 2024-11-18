@@ -1,0 +1,1 @@
+Second md file on JR-GIT-INTRO project. Made further amendations to the existing file.
