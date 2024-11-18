@@ -1,1 +1,1 @@
-Second md file on JR-GIT-INTRO project
+Second md file on JR-GIT-INTRO project. Modify file in a different way.
